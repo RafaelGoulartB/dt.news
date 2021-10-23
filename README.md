@@ -23,7 +23,7 @@
 > 🤑 Ig News project made in ignite bootcamp.
 
 <div align="center">
-  <sub>The Dt.money project. Built with ❤︎ by
+  <sub>The ig.news project. Built with ❤︎ by
     <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
     <a href="https://github.com/RafaelGoulartB/ig.news/graphs/contributors">
       contributors
