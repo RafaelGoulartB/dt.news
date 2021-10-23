@@ -1,5 +1,5 @@
 <h1 align="center">
-   Ig News
+   ig.news
 </h1>
 
 <p align="center">	
